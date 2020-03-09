@@ -1,6 +1,6 @@
 # netflix
 
-A new Flutter project.
+Rediseño de Netflix - Testeando Flutter
 
 ## Getting Started
 

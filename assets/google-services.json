@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094025556392",
+    "firebase_url": "https://notflix-6aa6d.firebaseio.com",
+    "project_id": "notflix-6aa6d",
+    "storage_bucket": "notflix-6aa6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094025556392:android:2fc09572cd3172fd882d9d",
+        "android_client_info": {
+          "package_name": "com.netflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094025556392-s5f3v6a98f5easqkv10p9sh7fl1v6kgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhlQtUTDc6JrSpuBG_p5GUJHpMjuxRuUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094025556392-s5f3v6a98f5easqkv10p9sh7fl1v6kgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
